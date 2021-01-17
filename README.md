@@ -21,11 +21,7 @@ Go here
 
 Customer CustomerData pulled through via knockout 
 
-![Customer Data](https://i.snag.gy/Kqwa8R.jpg)
-
-Chrome DevTools inspecting localstorage
-
-![Chrome DevTools](https://i.snag.gy/Bg8uKq.jpg)
+![Customer Data](https://ibb.co/yyd00j6)
 
 
 All done via Plugin

@@ -1,5 +1,5 @@
 {
-    "name": "magelearn/module-CustomerLogin",
+    "name": "magelearn/customerlogin",
     "description": "Magento2 load additional customer data through knockout JS.",
     "type": "magento2-module",
     "license": "OSL-3.0",
